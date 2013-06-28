@@ -68,3 +68,6 @@ export HIVE_AUX_JARS_PATH=$HIVE_AUX_JARS_PATH
 
 # Default to use 256MB 
 export HADOOP_HEAPSIZE=${HADOOP_HEAPSIZE:-256}
+export JAVA_HOME=/usr/local/java/jdk1.6.0_33 
+export HIVE_HOME=/workspace/hadoop/hive/hive
+export HADOOP_HOME=/workspace/hadoop/install

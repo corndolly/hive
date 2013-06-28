@@ -41,6 +41,7 @@ hwi() {
 
   export HADOOP_CLASSPATH
   
+  echo "$HADOOP jar ${HWI_JAR_FILE} $CLASS $HIVE_OPTS $@"
   # hadoop 20 or newer - skip the aux_jars option and hiveconf
   exec $HADOOP jar ${HWI_JAR_FILE} $CLASS $HIVE_OPTS "$@"
 }
