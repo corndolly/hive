@@ -1,0 +1,26 @@
+{
+  "namespace": "testing.test.mctesty",
+  "name": "oneRecord",
+  "type": "record",
+  "fields": [
+    {
+      "name":"aRecord",
+      "type":{"type":"record",
+              "name":"recordWithinARecord",
+              "fields": [
+                 {
+                  "name":"int1",
+                  "type":"int"
+                },
+                {
+                  "name":"boolean1",
+                  "type":"boolean"
+                },
+                {
+                  "name":"long1",
+                  "type":"long"
+                }
+      ]}
+    }
+  ]
+}

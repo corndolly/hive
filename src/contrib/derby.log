@@ -1,0 +1,20 @@
+----------------------------------------------------------------
+2013-05-11 07:11:50.844 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-013e-926e-6d1f-000013a6e428
+on database directory /grid/0/owen/dev/hive/contrib/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2013-05-11 07:11:51.210 GMT:
+Shutting down instance a816c00e-013e-926e-6d1f-000013a6e428
+----------------------------------------------------------------
+----------------------------------------------------------------
+2013-05-11 07:11:52.239 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance 08264012-013e-926e-6d1f-000013a6e428
+on database directory /grid/0/owen/dev/hive/contrib/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2013-05-11 07:11:52.535 GMT:
+Shutting down instance 08264012-013e-926e-6d1f-000013a6e428
+----------------------------------------------------------------
